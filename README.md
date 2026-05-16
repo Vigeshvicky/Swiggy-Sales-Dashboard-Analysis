@@ -1,25 +1,67 @@
- # 🍔 Swiggy Sales Dashboard Analysis | Excel Project
+# 🍔 Swiggy Sales Analysis Dashboard
 
-An interactive **Swiggy Sales Dashboard** developed using **Microsoft Excel** to analyze food delivery sales, customer ratings, orders, and regional performance through powerful visualizations and business insights.
+## 📌 Project Overview
 
-This project demonstrates how Excel can be used for **data analysis, KPI tracking, and dashboard reporting** in the food delivery industry.
+This project is an interactive **Swiggy Sales Analysis Dashboard** created in **Microsoft Excel** to analyze restaurant sales performance, customer ratings, order trends, and food category insights.
+
+The dashboard helps visualize important business metrics and provides actionable insights using dynamic charts, KPIs, slicers, and maps.
 
 ---
 
-# 📌 Project Overview
+# 📊 Dashboard Preview
 
-The main objective of this project is to analyze Swiggy sales performance and customer behavior using interactive dashboards and visual analytics.
+<img width="100%" alt="Swiggy Dashboard" src="YOUR_IMAGE_LINK_HERE"/>
 
-The dashboard helps in understanding:
+---
 
-* 📈 Sales Performance
-* ⭐ Customer Ratings
-* 🛒 Order Trends
-* 🌍 State-wise Sales
-* 🍽️ Food Category Analysis
-* 🏙️ Top Performing Cities
+# 🚀 Key Features
 
-This project transforms raw sales data into meaningful business insights for better decision-making.
+✅ Interactive Excel Dashboard
+✅ Dynamic KPIs & Sales Metrics
+✅ Monthly, Daily & Weekly Sales Analysis
+✅ State-wise Sales Visualization
+✅ Food Category Analysis (Veg / Non-Veg)
+✅ Top Cities Performance Tracking
+✅ Restaurant-Level Filtering
+✅ Advanced Excel Charts & Slicers
+✅ Business Insights & Trend Analysis
+
+---
+
+# 📈 KPIs Included
+
+| KPI                    | Description                 |
+| ---------------------- | --------------------------- |
+| 💰 Total Sales         | Overall revenue generated   |
+| ⭐ Average Rating       | Customer satisfaction score |
+| 🧾 Total Orders        | Total number of orders      |
+| 💵 Average Order Value | Revenue per order           |
+| 📊 Rating Count        | Total customer ratings      |
+
+---
+
+# 📊 Dashboard Insights
+
+### 📅 Sales Trend Analysis
+
+* Monthly sales trends identify peak-performing months
+* Weekly trends highlight high-order periods
+* Daily sales analysis helps track customer activity
+
+### 🍽️ Food Category Analysis
+
+* Comparison between Veg and Non-Veg sales
+* Helps understand customer food preferences
+
+### 🌍 Geographic Analysis
+
+* State-wise sales distribution using map visualization
+* Top-performing cities identified through sales charts
+
+### 🏪 Restaurant Performance
+
+* Analyze restaurant-wise sales contribution
+* Filter performance using interactive slicers
 
 ---
 
@@ -29,180 +71,71 @@ This project transforms raw sales data into meaningful business insights for bet
 
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Data%20Visualization-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Dashboard%20Design-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboarding-FF6F00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Business%20Analysis-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-7B1FA2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-00897B?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📊 Dashboard Features
+# 📂 Dataset Information
 
-The dashboard includes multiple KPI cards and visual reports for comprehensive analysis.
-
-## 📌 KPI Metrics
-
-* 💰 Total Sales
-* ⭐ Average Rating
-* 🛒 Total Orders
-* 💵 Average Order Value
-* 📈 Rating Count
-
----
-
-# 📈 Visualizations Included
-
-## 📅 Monthly Sales Trend
-
-Analyzes monthly sales performance to identify growth and seasonal trends.
-
----
-
-## 📆 Daily Sales Trend
-
-Shows daily sales variations across weekdays for performance tracking.
-
----
-
-## 📊 Weekly Sales Trend
-
-Tracks weekly order and sales distribution patterns.
-
----
-
-## 🍽️ Sales by Food Type
-
-Compares:
-
-* Veg Orders
-* Non-Veg Orders
-
-using donut chart visualization.
-
----
-
-## 🌍 Sales by State
-
-Displays geographical sales performance using map visualization.
-
----
-
-## 🏙️ Top Cities by Sales
-
-Highlights the highest revenue-generating cities.
-
----
-
-## 📋 Quarterly Analysis Table
-
-Displays:
-
-* Quarterly Sales
-* Average Ratings
-* Total Orders
-
-for business performance comparison.
-
----
-
-# 🎛️ Interactive Filters Used
-
-The dashboard contains slicers for dynamic filtering:
-
-* 📅 Month Filter
-* 🍴 Category Filter
-* 🏪 Restaurant Name Filter
-
-These filters allow users to interactively explore the data.
-
----
-
-# 📁 Dataset Information
-
-The dataset contains food delivery sales-related information such as:
+The dataset includes:
 
 * Order Details
-* Restaurant Names
+* Restaurant Information
 * Food Categories
-* Sales Amount
-* Customer Ratings
-* Cities & States
-* Order Dates
+* Ratings & Reviews
+* Sales Data
+* State & City Details
+* Weekly & Monthly Orders
 
 ---
 
-# 🚀 Key Insights
+# 🔍 Skills Demonstrated
 
-* Non-Veg food category generated higher sales
-* Certain months showed peak order performance
-* Ahmedabad emerged as a top-performing city
-* Customer ratings remained consistently high
-* Weekly sales patterns revealed demand fluctuations
-
----
-
-# 📚 Skills Demonstrated
-
-Through this project, I improved my skills in:
-
-* Data Cleaning
-* Excel Dashboard Design
-* Data Visualization
-* KPI Reporting
-* Business Analysis
-* Interactive Reporting
-* Trend Analysis
+✔ Data Cleaning
+✔ Data Transformation
+✔ Pivot Tables
+✔ Pivot Charts
+✔ Dashboard Design
+✔ KPI Reporting
+✔ Interactive Slicers
+✔ Trend Analysis
+✔ Business Intelligence
+✔ Data Visualization
 
 ---
 
-# 📌 Excel Features Used
+# 🎯 Business Problem Solved
 
-* ✔ Pivot Tables
-* ✔ Pivot Charts
-* ✔ Slicers
-* ✔ Conditional Formatting
-* ✔ KPI Cards
-* ✔ Map Visualization
-* ✔ Data Formatting
-* ✔ Dashboard Design Techniques
+This dashboard helps businesses:
 
----
-
-# 🎯 Project Objective
-
-The goal of this project is to provide a clear and interactive dashboard that helps analyze food delivery sales performance and customer behavior effectively using Excel.
+* Track overall sales performance
+* Monitor customer satisfaction
+* Identify top-performing regions
+* Understand customer ordering behavior
+* Improve restaurant and category performance
+* Make data-driven business decisions
 
 ---
 
-# 🌟 Project Highlights
+# 🌟 Future Improvements
 
-✅ Interactive Excel Dashboard
-✅ Sales Trend Analysis
-✅ State-wise Performance Tracking
-✅ Food Category Insights
-✅ Dynamic Filters & Slicers
-✅ KPI-Based Reporting
-✅ Business Intelligence Dashboard
+* Add Power BI version
+* Include forecasting analysis
+* Build real-time dashboard integration
+* Add customer segmentation analysis
+* Add profit & delivery analysis
 
 ---
-
-Passionate about:
-
-* Data Analytics
-* Dashboard Development
-* Business Intelligence
-* Excel Reporting
-* Data Visualization
-
----
-
-# ✨ Conclusion
+#✨ Conclusion
 
 This Swiggy Sales Dashboard project demonstrates how Excel can be transformed into a powerful business intelligence tool for analyzing sales, customer behavior, and operational performance.
 
-The dashboard provides meaningful insights through interactive visualizations and helps support data-driven decision-making.
+The dashboard provides meaningful insights through interactive visualizations and helps support data-driven decision-making
