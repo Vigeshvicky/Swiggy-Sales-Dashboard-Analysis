@@ -8,12 +8,6 @@ The dashboard helps visualize important business metrics and provides actionable
 
 ---
 
-# 📊 Dashboard Preview
-
-<img width="100%" alt="Swiggy Dashboard" src="YOUR_IMAGE_LINK_HERE"/>
-
----
-
 # 🚀 Key Features
 
 ✅ Interactive Excel Dashboard
