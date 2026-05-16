@@ -10,15 +10,15 @@ The dashboard helps visualize important business metrics and provides actionable
 
 # 🚀 Key Features
 
-✅ Interactive Excel Dashboard
-✅ Dynamic KPIs & Sales Metrics
-✅ Monthly, Daily & Weekly Sales Analysis
-✅ State-wise Sales Visualization
-✅ Food Category Analysis (Veg / Non-Veg)
-✅ Top Cities Performance Tracking
-✅ Restaurant-Level Filtering
-✅ Advanced Excel Charts & Slicers
-✅ Business Insights & Trend Analysis
+ ✅ Interactive Excel Dashboard
+ ✅ Dynamic KPIs & Sales Metrics
+ ✅ Monthly, Daily & Weekly Sales Analysis
+ ✅ State-wise Sales Visualization
+ ✅ Food Category Analysis (Veg / Non-Veg)
+ ✅ Top Cities Performance Tracking
+ ✅ Restaurant-Level Filtering
+ ✅ Advanced Excel Charts & Slicers
+ ✅ Business Insights & Trend Analysis
 
 ---
 
