@@ -1,4 +1,4 @@
-# 🍔 Swiggy Sales Analysis Dashboard – Excel Project
+# 🍔 Swiggy Sales Analysis Dashboard
 
 ## 📌 Project Overview
 
