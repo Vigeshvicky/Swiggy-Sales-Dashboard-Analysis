@@ -1,4 +1,4 @@
-# # 🍔 Swiggy Sales Dashboard Analysis | Excel Project
+ # 🍔 Swiggy Sales Dashboard Analysis | Excel Project
 
 An interactive **Swiggy Sales Dashboard** developed using **Microsoft Excel** to analyze food delivery sales, customer ratings, orders, and regional performance through powerful visualizations and business insights.
 
